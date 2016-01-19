@@ -1,0 +1,44 @@
+A CREDPlus é uma financeira especializada em microcrédito para pequenos empreendedores. Seu principal produto são financiamento de linhas de crédito de até R$ 20.000,00 para capital de giro ou equipamentos. Estes créditos possuem taxas de juros baixas em relação ao mercado e são compatíveis com as faixas de valor do empréstimo solicitado. 
+
+Para a CREDPlus o pequeno empreendedor é toda pessoa jurídica com faturamento até R$ 100.000,00 anual. Para captar novos clientes, a Financeira, possui uma ampla equipe de captação de cliente que realiza novos cadastros, bem como é responsável pela atualização dos registros dos antigos clientes. Para se tornar um novo cliente da CREDPlus, é preciso ter um CNPJ Válido, comprovante de endereço, informar os rendimentos, email, telefone (celular), CPF(s) válido(s) do(s) proprietário(s), que não devem possuir registro nos sistemas de proteção de crédito (SPC). A Aprovação de Crédito é responsabilidade pela equipe de análise de crédito, cuja responsabilidade é verificar a viabilidade da solicitação de crédito. 
+
+Todo crédito aprovado gera uma notificação para os novos clientes informando que seu crédito foi aprovado. Essa notificação pode ser por email ou sms. Um grande diferencial da CREDPlus é que ela possui um portal no qual os clientes podem confirmar a solicitação do crédito, bem como informar as condiçoões de pagamento. Por exemplo, um cliente pode optar pagar em 3x, 6x, 10x ou 12x com cheque ou boleto bancário. As condições de pagamento estão condicionadas a avaliação de risco do crédito, bem como a sua faixa de valor. Este risco é uma faixa de três status que são: baixo, médio, alto. baixo risco pode financiar até 12x, médio até 6x, baixo apenas 3x. Os valores do crédito estão condicionados a este risco: baixo risco pode obter até 20.000,00 de crédito, médio até 10.000,00, alto risco até 5.000,00. A equipe financeira é responsável pela baixa e cobrança das parcelas dos créditos liberados.
+ 
+
+Análise:
+
+Linhas de crédito até R$ 20.000,00 para capital de giro ou equipamentos.
+Taxas de juros baixa
+Com faturamento até 100 mil anual
+
+Departamento de cadastro de novos clientes e atualização dos registros
+
+Para cadastro (CNPJ, comprovante de endereço, informe de rendimentos, email, telefone celular, cpf dos proprietário)
+    - validar CNPJ
+    - validar CPF
+    - Consultar CPF dos proprietário
+   
+Equipe de analise de crédito verifica a viabilidade de analise de crédito
+    - Todo credito aprovado gera notificação para os novos clientes (email ou sms)
+
+Portal que confirma a solicitação do crédito para o cliente e permite escolher a forma de pagamento (3x, 6, 10 ou 12) cheque ou boleto
+    - Condições de pagamento condicionadas ao risco de credito e valor solicitado.
+    - Riscos Baixo, médio e alto
+
+Baixo Riscos: Financia até 20 mil - até 12x
+Médio Risco: Financia até 10 mil - até 6x
+Alto Risco: Financia até 5 mil - até 3x
+
+Equipe Financeira: Responsável pela vaixa e cobrança das parcelas
+
+
+
+Ajuda:
+Dominio e contextos dentro do dominio 
+
+Core Dominio - Financiamento
+SubDominio - Captação de clientes
+SubDominio - Analise de credito
+SubDominio - Financeiro 
+            Contexto - cobrança
+            Contexto - Baixa
